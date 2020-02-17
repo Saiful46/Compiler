@@ -1,0 +1,11 @@
+Anik Profile
+Name:Md. Saiful Islam
+Roll: 1407046
+Department: Computer Science and Engineering
+University: Khulna Unversity of Engineering and Technology
+Age: 23
+Occupation: Student
+About: I am a good boy
+anik987@gmail.com
+this is a bio data
+Address: KUET, Fulbarigate
